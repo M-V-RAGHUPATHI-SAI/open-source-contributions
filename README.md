@@ -17,6 +17,23 @@ merged pull requests, bug reports, and engineering discussions.
   🔗 https://github.com/CPAtoCybersecurity/csf_profile/pull/27  
   **Status:** ✅ Merged  
   **Contribution:** Improved backend configuration by securely handling environment variables and adding server-side validation for integration.
+  
+### lingdojo / kana-dojo
+- **PR #420** – Added unusual and true Japan fun facts  
+  🔗 https://github.com/lingdojo/kana-dojo/pull/420  
+  **Status:** ✅ Merged  
+  **Contribution:** Added two verified and unusual facts about Japan to a public JSON file while preserving the existing data structure and formatting.
+
+### yaswantsaiadapa / Gym_management_system_fitzone
+- **PR #1** – Updated test routes in the unit folder  
+  🔗 https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/1  
+  **Status:** ✅ Merged  
+  **Contribution:** Improved and organized backend test routes to align with the project’s structure.
+
+- **PR #2** – Updated diet, progress, and profile pages  
+  🔗 https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/2  
+  **Status:** ✅ Merged  
+  **Contribution:** Enhanced UI by adding CSS styling and card-based layouts for better user experience.
 
 ## 🐞 Issues raised
 ### AsyncAPI / website
