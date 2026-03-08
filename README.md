@@ -1,53 +1,84 @@
 # Open Source Contributions
 
-This repository highlights my contributions to open-source projects, including
-merged pull requests, bug reports, and engineering discussions.
+This repository highlights my open source contributions including merged pull requests, bug reports, and engineering discussions across multiple projects.
+
+## Contributions to GSoC Organizations
+
+### CircuitVerse
+Pull Requests  
+- https://github.com/CircuitVerse/CircuitVerse/pull/6755  
+- https://github.com/CircuitVerse/CircuitVerse/pull/6843  
+
+Issues  
+- https://github.com/CircuitVerse/CircuitVerse/issues/6825  
+- https://github.com/CircuitVerse/CircuitVerse/issues/6842  
 
 
-## 🚀 Merged Pull Requests
+### Measurement Lab (M-Lab)
+Pull Requests  
+- https://github.com/m-lab/mlab-speedtest/pull/198  
 
-### ImprovedTube / youtube
-- **PR #3531** – Fixed small player icon UI issues  
-  🔗 https://github.com/code-charity/ImprovedTube/pull/3531  
-  **Status:** ✅ Merged  
-  **Contribution:** Identified a UI inconsistency, implemented the fix, and addressed maintainer review feedback.
+Issues  
+- https://github.com/m-lab/mlab-speedtest/issues/205  
+- https://github.com/m-lab/mlab-speedtest/issues/176  
+- https://github.com/m-lab/mlab-speedtest/issues/192  
+- https://github.com/m-lab/mlab-speedtest/issues/193  
 
-### CPAtoCybersecurity / csf_profile
-- **PR #27** – Confluence Cloud API integration  
-  🔗 https://github.com/CPAtoCybersecurity/csf_profile/pull/27  
-  **Status:** ✅ Merged  
-  **Contribution:** Improved backend configuration by securely handling environment variables and adding server-side validation for integration.
-  
-### lingdojo / kana-dojo
-- **PR #420** – Added unusual and true Japan fun facts  
-  🔗 https://github.com/lingdojo/kana-dojo/pull/420  
-  **Status:** ✅ Merged  
-  **Contribution:** Added two verified and unusual facts about Japan to a public JSON file while preserving the existing data structure and formatting.
 
-### yaswantsaiadapa / Gym_management_system_fitzone
-- **PR #1** – Updated test routes in the unit folder  
-  🔗 https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/1  
-  **Status:** ✅ Merged  
-  **Contribution:** Improved and organized backend test routes to align with the project’s structure.
+### IndicTech
+Pull Requests  
+- https://github.com/indictechcom/wikifile-transfer/pull/47  
 
-- **PR #2** – Updated diet, progress, and profile pages  
-  🔗 https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/2  
-  **Status:** ✅ Merged  
-  **Contribution:** Enhanced UI by adding CSS styling and card-based layouts for better user experience.
+Issues  
+- https://github.com/indictechcom/wikifile-transfer/issues/46  
 
-## 🐞 Issues raised
-### AsyncAPI / website
-- **Issue #4932** – Docs dropdown shows subtle visual misalignment on hover at default zoom  
-  🔗 https://github.com/asyncapi/website/issues/4932  
-  **Status:** ⏳ Pending  
-  **Contribution:** Reported and documented a UI/UX issue; currently awaiting maintainer confirmation before proceeding. 
 
-## 🛠 Skills Demonstrated
-- Reading and modifying large existing codebases
+### Virtual Cell
+Pull Requests  
+- https://github.com/virtualcell/VCell-AI/pull/33  
+- https://github.com/virtualcell/VCell-AI/pull/36  
+- https://github.com/virtualcell/VCell-AI/pull/41  
+
+Issues  
+- https://github.com/virtualcell/VCell-AI/issues/31  
+- https://github.com/virtualcell/VCell-AI/issues/35  
+- https://github.com/virtualcell/VCell-AI/issues/40
+
+
+### AsyncAPI
+Issues  
+- https://github.com/asyncapi/website/issues/4932 
+
+
+## Other Open Source Contributions
+
+### ImprovedTube
+Pull Requests  
+- https://github.com/code-charity/ImprovedTube/pull/3531  
+
+
+### CPAtoCybersecurity
+Pull Requests 
+- https://github.com/CPAtoCybersecurity/csf_profile/pull/27  
+
+
+### LingDojo
+Pull Requests 
+- https://github.com/lingdojo/kana-dojo/pull/420  
+
+
+### Gym Management System Fitzone
+Pull Requests   
+- https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/1  
+- https://github.com/yaswantsaiadapa/Gym_management_system_fitzone/pull/2   
+
+
+## Skills Demonstrated
+- Working with large existing codebases
 - Debugging and issue triaging
-- GitHub workflow (issues, PRs, reviews)
-- Writing clear technical communication
+- GitHub workflow (issues, pull requests, reviews)
+- Writing clear technical discussions with maintainers
 
-## 📌 Notes
-- All contributions were reviewed and merged by project maintainers.
-- GitHub profile: https://github.com/M-V-RAGHUPATHI-SAI  
+
+## GitHub Profile
+https://github.com/M-V-RAGHUPATHI-SAI
